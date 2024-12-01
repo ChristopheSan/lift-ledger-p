@@ -1,0 +1,88 @@
+.workout-section {
+    background-color: #2c2c2c;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.exercise-card {
+    margin: 15px 0;
+    background-color: #444;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.exercise-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.exercise-input {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+input[type="number"],
+textarea {
+    background-color: #333;
+    border: 1px solid #555;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+
+/* Styling for each set row */
+.set-row {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* Two fields per row */
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: #333; /* Match your theme */
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.set-row label {
+    font-size: 12px;
+    color: #fff;
+    margin-bottom: 5px;
+    display: block; /* Make labels stack above inputs */
+}
+
+.set-row input,
+.set-row textarea {
+    padding: 6px;
+    font-size: 14px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #222;
+    color: white;
+}
+
+.set-row input::placeholder,
+.set-row textarea::placeholder {
+    color: #aaa; /* Placeholder color */
+}
+
+.set-row input:focus,
+.set-row textarea:focus {
+    outline: none;
+    border-color: #666;
+}
+
+.set-row input {
+    text-align: center; /* Center-align text for numeric inputs */
+    width: 60px; /* Fixed width for 4 digits */
+}
+
+.set-row textarea {
+    resize: none;
+    width: 150px; /* Wider for notes */
+    height: 60px;
+}
+

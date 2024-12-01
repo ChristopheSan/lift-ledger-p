@@ -1,0 +1,335 @@
+* {
+    box-sizing: border-box;
+}
+
+.plan-header-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: fit-content;
+    flex: 1 1;
+    background-color: #2f2f2f;
+    border-radius: 2rem;
+    padding: 10px;
+    gap: 5px;
+}
+.instruction-container {
+    border: solid 1px #e0e0e0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.instruction-container ul {
+    font-size: smaller;
+}
+textarea{
+    min-height: 50px;
+    max-height: 80px;
+    max-width: 250px;
+    min-width: 250px;
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #e0e0e0;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.input-value {
+    background-color: #2f2f2f;           
+    padding: 5px;             
+    border: solid 1px #e0e0e0;
+    border-radius: 4px;
+    color: white;              
+}
+
+
+#days-input{
+    max-width: 40px;
+    max-height: fit-content;
+    min-width: 20px;
+}
+
+#plan-main-container {
+    align-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2f2f2f;
+    border-radius: 2rem;
+}
+
+/* Container with horizontal scrolling */
+.horizontal-container {
+    display: flex;           /* Use flexbox for horizontal layout */
+    overflow-x: auto;        /* Enable horizontal scrolling */
+    white-space: nowrap;     /* Prevent wrapping */
+    height: 90%;           /* Optional: Full height */
+    align-content: center;
+    gap: 20px;
+}
+
+
+/* Style the horizontal scrollbar */
+.horizontal-container::-webkit-scrollbar {
+    height: 12px; /* Initial scrollbar height */
+}
+
+.horizontal-container::-webkit-scrollbar-track {
+    background: #e0e0e0b7;  /* Light grey background for the track */
+    margin: 2px;          /* Push the track slightly inward relative to the thumb */
+    border-radius: 6px;   /* Rounded corners for the track */
+}
+
+.horizontal-container::-webkit-scrollbar-thumb {
+    background-color: #726f6fe5;
+    border-radius: 6px; 
+}
+
+.horizontal-container::-webkit-scrollbar-thumb:hover {
+    height: 10px; 
+    background: linear-gradient(90deg, #555, #525252); /* Darker gradient on hover */
+}
+
+
+
+.workout-day-column {
+    display: flex;
+    flex-direction: column;     /* Stack content vertically */
+    flex: 0 0 25%;              /* Fixed width: 25% of container */
+    min-width: 300px;           
+    max-width: 300px;
+    border: 0.5px solid #ccc;   
+    border-radius: 8px;         
+    background-color: #171717;  /* Column background */
+    padding: 10px;              /* Space inside columns */
+    overflow: hidden;           /* Prevent content overflow */
+    height: fit-content;
+}
+
+.column-header {
+    text-align: center;         /* Center the header text */
+    border-bottom: 1px solid #ccc; /* Optional: Divider between header and data */
+    padding: 10px;              /* Spacing inside header */
+    width: 100%;                /* Ensure the header stays within the column */
+}
+
+
+.ll-button {
+    /* border: solid 1px; */
+    display: inline;
+    padding: 8px 8px;
+    vertical-align: center;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: left;
+    cursor: pointer;
+    white-space: nowrap
+}
+
+.day-name-input {
+    border: solid 1px;
+}
+
+#column-data-container {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.column-data {
+    border: 1px solid #ccc;     
+    border-radius: 8px;         
+    padding: 20px;              
+    width: 100%;                
+    max-width: 100%;            
+    word-wrap: break-word;      /* Ensure text doesn't overflow */
+    min-height: 140px;
+    box-shadow: 0px 4px 6px rgba(1, 12, 5, 0.5);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.add-exercise-button-container {
+    display: flex;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    min-height: 20px;
+    border: 1px solid;
+    border-radius: 1%;
+
+    user-select: none;
+}
+
+.add-exercise-layout {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    padding: 0px;
+}
+
+
+.add-exercise-button-container:hover {
+    background-color: #525252;
+}
+
+.column-data-top-row {
+    display: flex;
+    align-items: center;
+}
+
+.column-data-divider {
+    padding: 0%;
+    color: #726f6fe5;
+}
+
+.fa-trash-can {
+    color: #FF8888;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.fa-trash-can:hover {
+    color:  #FF4C4C;/* Lighter red on hover */
+}
+
+.exercise-category {
+    background-color: #4A90E2; /* Or #6FCF97 for green */
+    color: white;
+    border-radius: 16px;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.exercise-value {
+    background-color: #1E1E1E;  /* Dark background for dropdown */
+    border: 1px solid #444;    /* Border for better visibility */
+     color: white;            /*  Ensure text is visible */
+    padding: 10px 12px;        /* Add padding for better spacing */
+    border-radius: 5px;        /* Rounded corners */
+    cursor: pointer;
+}
+
+.exercise-value:hover, .exercise-value:focus {
+    border: 1px solid #4A90E2; /* Highlight border on hover/focus */
+}
+
+
+.exercise-value-option {
+    background-color: #2f2f2f; 
+    color: white;              
+    padding: 5px;             
+    border: none;              
+}
+
+.exercise-value-option:hover {
+    background-color: #4A90E2; 
+    color: #fff;               
+}
+
+option.exercise-value-option {
+    border-radius: 5px;
+    border: 1px solid #444;
+}
+
+.exercise-value:hover, .exercise-value:focus {
+    border: 1px solid #4A90E2; /* Highlight border on hover/focus */
+}
+
+/* Modal container */
+/* Covers the entire screen and allows transparency */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it sits on top of other UI */
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s ease-in-out;
+}
+
+/* Show the modal */
+.modal.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+/* Modal content */
+/* This is actually where out data will show up */
+.modal-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: fit-content;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Modal options */
+.modal-options {
+    margin-top: 15px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.modal-options button {
+    padding: 10px;
+    font-size: 16px;
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.modal-options button:hover {
+    background: #e0e0e0;
+}
+
+/* Cancel button */
+#modal-cancel-btn {
+    margin-top: 15px;
+    padding: 10px;
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#modal-cancel-btn:hover {
+    background: #ff3333;
+}
+
+/* Initially hide the expandable content */
+.expandable-content {
+    max-height: 0; /* Collapse the content */
+    overflow: hidden; /* Hide overflowing content */
+    opacity: 0; /* Make it invisible */
+    transition: max-height 0.3s ease, opacity 0.3s ease; /* Smooth expansion */
+    display: flex;
+    flex-direction: column;
+}
+
+/* When expanded, reveal the content */
+.column-data.expanded .expandable-content {
+    max-height: 340px; /* Adjust based on content height */
+    opacity: 1; /* Make it visible */
+}

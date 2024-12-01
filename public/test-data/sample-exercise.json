@@ -1,0 +1,63 @@
+[
+    {
+      "exerciseId": 1,
+      "name": "Push Up",
+      "exampleVideoUrl": "https://example.com/videos/push-up",
+      "createdByUserFlag": false,
+      "category": "Horizontal Push",
+      "user": {
+        "userId": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+      }
+    },
+    {
+      "exerciseId": 2,
+      "name": "Bicep Curl",
+      "exampleVideoUrl": "https://example.com/videos/bicep-curl",
+      "createdByUserFlag": true,
+      "category": "Biceps",
+      "user": {
+        "userId": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+      }
+    },
+    {
+      "exerciseId": 3,
+      "name": "Squat",
+      "exampleVideoUrl": "https://example.com/videos/squat",
+      "createdByUserFlag": false,
+      "category": "Quads",
+      "user": {
+        "userId": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+      }
+    },
+    {
+      "exerciseId": 4,
+      "name": "Deadlift",
+      "exampleVideoUrl": "https://example.com/videos/deadlift",
+      "createdByUserFlag": false,
+      "category": "Hamstrings Hip Hinge",
+      "user": {
+        "userId": 3,
+        "name": "Alice Johnson",
+        "email": "alicej@example.com"
+      }
+    },
+    {
+      "exerciseId": 5,
+      "name": "Overhead Press",
+      "exampleVideoUrl": "https://example.com/videos/overhead-press",
+      "createdByUserFlag": true,
+      "category": "Vertical Push",
+      "user": {
+        "userId": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+      }
+    }
+  ]
+  

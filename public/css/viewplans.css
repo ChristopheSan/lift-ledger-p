@@ -1,0 +1,17 @@
+.button-holder {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    gap: 20px;
+}
+
+#collapse-button {
+    border: .25px solid gray;
+}
+
+#create-plan-button {
+    float: right;
+    border: .25px solid gray;
+    margin: 10px;
+    padding: 10px;
+}

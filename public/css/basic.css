@@ -1,0 +1,35 @@
+.current-plan-section {
+    background-color: #2c2c2c;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.current-plan-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #444;
+    border-radius: 5px;
+}
+
+.current-plan-header h3 {
+    margin: 0;
+}
+
+.day-link {
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #555;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.day-link:hover {
+    background-color: #666;
+}

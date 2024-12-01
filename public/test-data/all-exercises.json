@@ -1,0 +1,1640 @@
+[
+    {
+        "exerciseId": 1,
+        "name": "Cable Rope Crunch",
+        "exampleVideoUrl": "https://youtu.be/6GMKPQVERzw",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 2,
+        "name": "Hanging Knee Raise",
+        "exampleVideoUrl": "https://youtu.be/RD_A-Z15ER4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 3,
+        "name": "Hanging Straight Leg Raise",
+        "exampleVideoUrl": "https://youtu.be/7FwGZ8qY5OU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 4,
+        "name": "Machine Crunch",
+        "exampleVideoUrl": "https://youtu.be/-OUSBPnHvsQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 5,
+        "name": "Modified Candlestick",
+        "exampleVideoUrl": "https://youtu.be/T_X5rb3G5lk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 6,
+        "name": "Reaching Sit-Up",
+        "exampleVideoUrl": "https://youtu.be/pXg8qppif7I",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 7,
+        "name": "Slant Board Sit-Up",
+        "exampleVideoUrl": "https://youtu.be/DAnTf16NcT0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 8,
+        "name": "V-Up",
+        "exampleVideoUrl": "https://youtu.be/BIOM5eSsJ_8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Abs"
+    },
+    {
+        "exerciseId": 9,
+        "name": "2-Arm Dumbbell Curl",
+        "exampleVideoUrl": "https://youtu.be/yYB76DOBPsM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 10,
+        "name": "Alternating Dumbbell Curl",
+        "exampleVideoUrl": "https://youtu.be/iixND1P2lik",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 11,
+        "name": "Barbell Curl Narrow Grip",
+        "exampleVideoUrl": "https://youtu.be/pUS6HBQjRmc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 12,
+        "name": "Barbell Curl Normal Grip",
+        "exampleVideoUrl": "https://youtu.be/JnLFSFurrqQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 13,
+        "name": "Cable Curl",
+        "exampleVideoUrl": "https://youtu.be/nW7w5vG6IIc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 14,
+        "name": "Cable EZ Bar Curl",
+        "exampleVideoUrl": "https://youtu.be/opFVuRi_3b8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 15,
+        "name": "Cable EZ Bar Curl Wide Grip",
+        "exampleVideoUrl": "https://youtu.be/yuozln3CC94",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 16,
+        "name": "Cable Rope Twist Curl",
+        "exampleVideoUrl": "https://youtu.be/2CDKTFFp5fA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 17,
+        "name": "Close Grip Barbell Curl",
+        "exampleVideoUrl": "https://youtu.be/GztM7atVgd8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 18,
+        "name": "Dumbbell Single Arm Preacher Curl",
+        "exampleVideoUrl": "https://youtu.be/fuK3nFvwgXk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 19,
+        "name": "Dumbbell Spider Curl",
+        "exampleVideoUrl": "https://youtu.be/ke2shAeQ0O8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 20,
+        "name": "Dummbell Twist Curl",
+        "exampleVideoUrl": "https://youtu.be/tRXw8HQ7-oA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 21,
+        "name": "EZ Bar Curl Narrow Grip",
+        "exampleVideoUrl": "https://youtu.be/cdmnvo3augg",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 22,
+        "name": "EZ Bar Curl Wide Grip",
+        "exampleVideoUrl": "https://youtu.be/EK747VC37yE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 23,
+        "name": "EZ Bar Preacher Curl",
+        "exampleVideoUrl": "https://youtu.be/sxA__DoLsgo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 24,
+        "name": "EZ Bar Spider Curl",
+        "exampleVideoUrl": "https://youtu.be/WG3vdcq__I0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 25,
+        "name": "EZ Curl ",
+        "exampleVideoUrl": "https://youtu.be/MCjBeB844rU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 26,
+        "name": "Hammer Curl",
+        "exampleVideoUrl": "https://youtu.be/XOEL4MgekYE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 27,
+        "name": "Incline Dumbbell Curl",
+        "exampleVideoUrl": "https://youtu.be/aTYlqC_JacQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 28,
+        "name": "Machine Preacher Curl",
+        "exampleVideoUrl": "https://youtu.be/Ja6ZlIDONac",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Biceps"
+    },
+    {
+        "exerciseId": 29,
+        "name": "Calf Machine",
+        "exampleVideoUrl": "https://youtu.be/N3awlEyTY98",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Calves"
+    },
+    {
+        "exerciseId": 30,
+        "name": "Leg Press Calves",
+        "exampleVideoUrl": "https://youtu.be/KxEYX_cuesM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Calves"
+    },
+    {
+        "exerciseId": 31,
+        "name": "Single Leg Stair Calves",
+        "exampleVideoUrl": "https://youtu.be/_gEx2ijsmNM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Calves"
+    },
+    {
+        "exerciseId": 32,
+        "name": "Smith Machine Calves",
+        "exampleVideoUrl": "https://youtu.be/hh5516HCu4k",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Calves"
+    },
+    {
+        "exerciseId": 33,
+        "name": "Stair Calves",
+        "exampleVideoUrl": "https://youtu.be/__qfDhdByMY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Calves"
+    },
+    {
+        "exerciseId": 34,
+        "name": "Cable Bent Flye",
+        "exampleVideoUrl": "https://youtu.be/Cj6P91eFXkM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 35,
+        "name": "Cable Flye",
+        "exampleVideoUrl": "https://youtu.be/4mfLHnFL0Uw",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 36,
+        "name": "Cable Underhand Flye",
+        "exampleVideoUrl": "https://youtu.be/e_8HLu59-to",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 37,
+        "name": "Cambered Bar Bench Press",
+        "exampleVideoUrl": "https://youtu.be/_9VlfuYYC7w",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 38,
+        "name": "Flat Dumbbell Flye",
+        "exampleVideoUrl": "https://youtu.be/JFm8KbhjibM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 39,
+        "name": "Flat Dumbbell Press Flye",
+        "exampleVideoUrl": "https://youtu.be/BhlL-esnitU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 40,
+        "name": "High Cable Flye",
+        "exampleVideoUrl": "https://youtu.be/ipoTKasbDyQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 41,
+        "name": "Incline Dumbbell Flye",
+        "exampleVideoUrl": "https://youtu.be/8oR5hBwbIBc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 42,
+        "name": "Incline Dumbbell Press Flye",
+        "exampleVideoUrl": "https://youtu.be/lTfiohnjbyM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 43,
+        "name": "Machine Flye",
+        "exampleVideoUrl": "https://youtu.be/FDay9wFe5uE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 44,
+        "name": "Pec Dec Flye",
+        "exampleVideoUrl": "https://youtu.be/O-OBCfyh9Fw",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Chest Isolation"
+    },
+    {
+        "exerciseId": 45,
+        "name": "Barbell Standing Wrist Curl",
+        "exampleVideoUrl": "https://youtu.be/lfQR7oVS8eo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Forearms"
+    },
+    {
+        "exerciseId": 46,
+        "name": "Cable Wrist Curl",
+        "exampleVideoUrl": "https://youtu.be/WVAaKJvToe0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Forearms"
+    },
+    {
+        "exerciseId": 47,
+        "name": "Dumbbell Bench Wrist Curl",
+        "exampleVideoUrl": "https://youtu.be/2wPpcJBe03o",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Forearms"
+    },
+    {
+        "exerciseId": 48,
+        "name": "Dumbbell Standing Wrist Curl",
+        "exampleVideoUrl": "https://youtu.be/iQ4JjOK73PE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Forearms"
+    },
+    {
+        "exerciseId": 49,
+        "name": "Barbell Front Raise",
+        "exampleVideoUrl": "https://youtu.be/_ikCPws1mbE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 50,
+        "name": "Cable Underhand Front Raise",
+        "exampleVideoUrl": "https://youtu.be/yIoAcMD3jcE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 51,
+        "name": "Dumbbell Front Raise",
+        "exampleVideoUrl": "https://youtu.be/hRJ6tR5-if0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 52,
+        "name": "EZ Bar Underhand Front Raise",
+        "exampleVideoUrl": "https://youtu.be/87pZAbYjXc4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 53,
+        "name": "High Incline Dumbbell Press",
+        "exampleVideoUrl": "https://youtu.be/GFYrRBoov3w",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 54,
+        "name": "Machine Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/WvLMauqrnK8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 55,
+        "name": "Seated Barbell Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/IuzRCN6eG6Y",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 56,
+        "name": "Seated Dumbbell Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/HzIiNhHhhtA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 57,
+        "name": "Smith Machine Seated Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/OLqZDUUD2b0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 58,
+        "name": "Standing Barbell Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/G2qpTG1Eh40",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 59,
+        "name": "Standing Dumbbell Shoulder Press",
+        "exampleVideoUrl": "https://youtu.be/Raemd3qWgJc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Front Delts"
+    },
+    {
+        "exerciseId": 60,
+        "name": "Barbell Hip Thrust",
+        "exampleVideoUrl": "https://youtu.be/EF7jXP17DPE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 61,
+        "name": "Barbell Walking Lunge",
+        "exampleVideoUrl": "https://youtu.be/_meXEWq5MOQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 62,
+        "name": "Cable Pull Through",
+        "exampleVideoUrl": "https://youtu.be/pv8e6OSyETE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 63,
+        "name": "Deadlift",
+        "exampleVideoUrl": "https://youtu.be/AweC3UaM14o",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 64,
+        "name": "Deficit 25's Deadlift ",
+        "exampleVideoUrl": "https://youtu.be/kvWcDHH62j0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 65,
+        "name": "Deficit Deadlift",
+        "exampleVideoUrl": "https://youtu.be/X-uKkAukJVA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 66,
+        "name": "Dumbbell Reverse Lunge",
+        "exampleVideoUrl": "https://youtu.be/D-c2CWwEweo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 67,
+        "name": "Dumbbell Split Squat",
+        "exampleVideoUrl": "https://youtu.be/pjAewD4LxXs",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 68,
+        "name": "Dumbbell Walking Lunge",
+        "exampleVideoUrl": "https://youtu.be/eFWCn5iEbTU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 69,
+        "name": "Machine Glute Kickback",
+        "exampleVideoUrl": "https://youtu.be/NLDBFtSNhqg",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 70,
+        "name": "Single Leg Dumbbell Hip Thrust",
+        "exampleVideoUrl": "https://youtu.be/CSXVj047Ss4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 71,
+        "name": "Sumo Deadlift",
+        "exampleVideoUrl": "https://youtu.be/xp1IeyTOB4U",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 72,
+        "name": "Sumo Squat",
+        "exampleVideoUrl": "https://youtu.be/wjw-4R5VR20",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 73,
+        "name": "Wide Stance Belt Squat",
+        "exampleVideoUrl": "https://youtu.be/LU2GYsqkgAQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Glutes"
+    },
+    {
+        "exerciseId": 74,
+        "name": "45 Degree Back Raise",
+        "exampleVideoUrl": "https://youtu.be/5_ejbGfdAQE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 75,
+        "name": "Dumbbell Stiff Legged Deadlift",
+        "exampleVideoUrl": "https://youtu.be/cYKYGwcg0U8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 76,
+        "name": "Glute Ham Raise",
+        "exampleVideoUrl": "https://youtu.be/SBGYSfoqyfU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 77,
+        "name": "High Bar Good Morning",
+        "exampleVideoUrl": "https://youtu.be/dEJ0FTm-CEk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 78,
+        "name": "Low Bar Good Morning",
+        "exampleVideoUrl": "https://youtu.be/mnxn-7SO9Ks",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 79,
+        "name": "Stiff-Legged Deadlift",
+        "exampleVideoUrl": "https://youtu.be/CN_7cz3P-1U",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Hip Hinge"
+    },
+    {
+        "exerciseId": 80,
+        "name": "Lying Leg Curl",
+        "exampleVideoUrl": "https://youtu.be/n5WDXD_mpVY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Isolation"
+    },
+    {
+        "exerciseId": 81,
+        "name": "Seated Leg Curl",
+        "exampleVideoUrl": "https://youtu.be/Orxowest56U",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Isolation"
+    },
+    {
+        "exerciseId": 82,
+        "name": "Single-Leg Leg Curl",
+        "exampleVideoUrl": "https://youtu.be/N6FVnaasdq0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Hamstrings Isolation"
+    },
+    {
+        "exerciseId": 90,
+        "name": "Cambered Bar Row",
+        "exampleVideoUrl": "https://youtu.be/jiowkUMomlw",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 91,
+        "name": "Hammer High Row",
+        "exampleVideoUrl": "https://youtu.be/gg5hwJuv6KI",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 92,
+        "name": "Hammer Low Row",
+        "exampleVideoUrl": "https://youtu.be/opjbouBmUWg",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 93,
+        "name": "Incline Dumbbell Row",
+        "exampleVideoUrl": "https://youtu.be/tZUYS7X50so",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 94,
+        "name": "Inverted Row",
+        "exampleVideoUrl": "https://youtu.be/KOaCM1HMwU0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 95,
+        "name": "Machine Chest Supported Row",
+        "exampleVideoUrl": "https://youtu.be/_FrrYQxA6kc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 96,
+        "name": "Seal Row",
+        "exampleVideoUrl": "https://youtu.be/4H2ItXwUTp8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 97,
+        "name": "Smith Machine Row",
+        "exampleVideoUrl": "https://youtu.be/3QcJggd_L24",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 98,
+        "name": "T-Bar Row",
+        "exampleVideoUrl": "https://youtu.be/yPis7nlbqdY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Back"
+    },
+    {
+        "exerciseId": 99,
+        "name": "Deficit Push-Up",
+        "exampleVideoUrl": "https://youtu.be/gmNlqsE3Onc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 100,
+        "name": "Flat Dumbbell Bench Press",
+        "exampleVideoUrl": "https://youtu.be/YQ2s_Y7g5Qk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 101,
+        "name": "Flat Hammer Machine Press",
+        "exampleVideoUrl": "https://youtu.be/aV1U_mK3XOs",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 102,
+        "name": "Hammer Machine Chest Press",
+        "exampleVideoUrl": "https://youtu.be/0Wa9CfRXUkA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 103,
+        "name": "Machine Chest Press",
+        "exampleVideoUrl": "https://youtu.be/NwzUje3z0qY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 104,
+        "name": "Medium Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/gMgvBspQ9lk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 105,
+        "name": "Narrow Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/FiQUzPtS90E",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 106,
+        "name": "Narrow Grip Push-Up",
+        "exampleVideoUrl": "https://youtu.be/Lz1aFtuNvEQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 107,
+        "name": "Pushup",
+        "exampleVideoUrl": "https://youtu.be/mm6_WcoCVTA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 108,
+        "name": "Smitch Machine Wide Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/AK0ycfB_kYo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 109,
+        "name": "Smith Machine Bench Press",
+        "exampleVideoUrl": "https://youtu.be/O5viuEPDXKY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 110,
+        "name": "Smith Machine Narrow Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/qf_FTh3QyYs",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 111,
+        "name": "Wide Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/EeE3f4VWFDo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Push"
+    },
+    {
+        "exerciseId": 112,
+        "name": "Assisted Dip",
+        "exampleVideoUrl": "https://youtu.be/yZ83t4mrPrI",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 113,
+        "name": "Barbell Skullcrusher",
+        "exampleVideoUrl": "https://youtu.be/l3rHYPtMUo8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 114,
+        "name": "Cable Triceps Pushdown",
+        "exampleVideoUrl": "https://youtu.be/6Fzep104f0s",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 115,
+        "name": "Dip",
+        "exampleVideoUrl": "https://youtu.be/4LA1kF7yCGo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 116,
+        "name": "Dumbbell Skullcrusher",
+        "exampleVideoUrl": "https://youtu.be/jPjhQ2hsAds",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 117,
+        "name": "Inverted Skullcrusher",
+        "exampleVideoUrl": "https://youtu.be/1lrjpLuXH4w",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Horizontal Triceps"
+    },
+    {
+        "exerciseId": 122,
+        "name": "Incline Dumbbell Press",
+        "exampleVideoUrl": "https://youtu.be/5CECBjd7HLQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 123,
+        "name": "Incline Machine Chest Press",
+        "exampleVideoUrl": "https://youtu.be/TrTSvn5-MTk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 124,
+        "name": "Incline Medium Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/lJ2o89kcnxY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 125,
+        "name": "Incline Narrow Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/Zfi0KcIJi6c",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 126,
+        "name": "Incline Wide Grip Bench Press",
+        "exampleVideoUrl": "https://youtu.be/FxQ0XEoFYQk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 127,
+        "name": "Low Incline Dumbbell Press",
+        "exampleVideoUrl": "https://youtu.be/B09ZkYsnKko",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 128,
+        "name": "Smitch Machine Wide Grip Incline Press",
+        "exampleVideoUrl": "https://youtu.be/SHL81neluiI",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 129,
+        "name": "Smith Machine Incline Press",
+        "exampleVideoUrl": "https://youtu.be/8urE8Z8AMQ4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Incline Push"
+    },
+    {
+        "exerciseId": 130,
+        "name": "Barbell Split Squat",
+        "exampleVideoUrl": "https://youtu.be/VfsPxffCAd0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 131,
+        "name": "Belt Squat",
+        "exampleVideoUrl": "https://youtu.be/L__-j2v_LPM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 132,
+        "name": "Close Stance Feet Forward Squats",
+        "exampleVideoUrl": "https://youtu.be/ppluAD4MHK8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 133,
+        "name": "Feet Forward Smith Squat",
+        "exampleVideoUrl": "https://youtu.be/-eO_VydErV0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 134,
+        "name": "Front Squat ",
+        "exampleVideoUrl": "https://youtu.be/HHxNbhP16UE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 135,
+        "name": "Front Squat (Cross Grip)",
+        "exampleVideoUrl": "https://youtu.be/0DQvn2qsOG4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 136,
+        "name": "Hack Squat",
+        "exampleVideoUrl": "https://youtu.be/rYgNArpwE7E",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 137,
+        "name": "High Bar Squat",
+        "exampleVideoUrl": "https://youtu.be/i7J5h7BJ07g",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 138,
+        "name": "Leg Extension",
+        "exampleVideoUrl": "https://youtu.be/m0FOpMEgero",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 139,
+        "name": "Leg Press",
+        "exampleVideoUrl": "https://youtu.be/yZmx_Ac3880",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 140,
+        "name": "Narrow Stance Squat",
+        "exampleVideoUrl": "https://youtu.be/1IIPcUCKxcE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Quads"
+    },
+    {
+        "exerciseId": 141,
+        "name": "Barbell Facepull",
+        "exampleVideoUrl": "https://youtu.be/hPWYuhJMUhU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 142,
+        "name": "Cable Cross Body Bent Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/f0g5NkYiWUY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 143,
+        "name": "Cable Rope Facepull",
+        "exampleVideoUrl": "https://youtu.be/-MODnZdnmAQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 144,
+        "name": "Cable Single Arm Rear Delt Raise",
+        "exampleVideoUrl": "https://youtu.be/qz1OLup4W_M",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 145,
+        "name": "Dumbbell Bent Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/34gVHrkaiz0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 146,
+        "name": "Dumbbell Facepull",
+        "exampleVideoUrl": "https://youtu.be/nzTY7j9ocR8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 147,
+        "name": "Incline Dumbbell Facepull",
+        "exampleVideoUrl": "https://youtu.be/90cE3rCLtmo",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 148,
+        "name": "Incline Dumbbell Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/z3PRz2aVA10",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 149,
+        "name": "Kneeling Cable Facepull",
+        "exampleVideoUrl": "https://youtu.be/8CGMuud1ANw",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 150,
+        "name": "Machine Reverse Flye",
+        "exampleVideoUrl": "https://youtu.be/5YK4bgzXDp0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Rear Delts"
+    },
+    {
+        "exerciseId": 151,
+        "name": "Barbell Upright Row",
+        "exampleVideoUrl": "https://youtu.be/um3VVzqunPU",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 152,
+        "name": "Cable Cross Body Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/2OMbdPF7mz4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 153,
+        "name": "Cable Leaning Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/lq7eLC30b9w",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 154,
+        "name": "Cable Upright Row",
+        "exampleVideoUrl": "https://youtu.be/qr3ziolhjvQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 155,
+        "name": "Dumbbell Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/OuG1smZTsQQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 156,
+        "name": "Dumbbell Upright Row",
+        "exampleVideoUrl": "https://youtu.be/Ub6QruNKfbY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 157,
+        "name": "Machine Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/0o07iGKUarI",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 158,
+        "name": "Smith Machine Upright Row",
+        "exampleVideoUrl": "https://youtu.be/QIpa-9dtkgA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 159,
+        "name": "Thumbs Down Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/D1f7d1OcobY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 160,
+        "name": "Top Hold Lateral Raise",
+        "exampleVideoUrl": "https://youtu.be/SKf8wHlIFX0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Side Delts"
+    },
+    {
+        "exerciseId": 161,
+        "name": "Barbell Bent Over Shrug",
+        "exampleVideoUrl": "https://youtu.be/d9daNDIXtK8",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 162,
+        "name": "Barbell Shrug",
+        "exampleVideoUrl": "https://youtu.be/M_MjF5Nm_h4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 163,
+        "name": "Cable Bent Over Shrug",
+        "exampleVideoUrl": "https://youtu.be/nOn_Bz0zrwQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 164,
+        "name": "Cable Shrug",
+        "exampleVideoUrl": "https://youtu.be/YykmcX2b-LY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 165,
+        "name": "Cable Side Shrug",
+        "exampleVideoUrl": "https://youtu.be/2zaT3WAgZi0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 166,
+        "name": "Cable Single Arm Side Shrug",
+        "exampleVideoUrl": "https://youtu.be/BeIcUXQ3RDc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 167,
+        "name": "Dumbbell Bent Over Shrug",
+        "exampleVideoUrl": "https://youtu.be/5z7ZtboxbBY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 168,
+        "name": "Dumbbell Leaning Shrug",
+        "exampleVideoUrl": "https://youtu.be/GH_l85Ky3vA",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 169,
+        "name": "Dumbbell Shrug",
+        "exampleVideoUrl": "https://youtu.be/_t3lrPI6Ns4",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 170,
+        "name": "Seated Dumbbell Shrug",
+        "exampleVideoUrl": "https://youtu.be/zgToz5FiI-E",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Traps"
+    },
+    {
+        "exerciseId": 171,
+        "name": "Assisted Normal Grip Pullup",
+        "exampleVideoUrl": "https://youtu.be/8ygapPMYK1I",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 172,
+        "name": "Assisted Parallel Pullup",
+        "exampleVideoUrl": "https://youtu.be/GdsRZAeeDUc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 173,
+        "name": "Assisted Underhand Pullup",
+        "exampleVideoUrl": "https://youtu.be/L4ChTwrXTjc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 174,
+        "name": "Assisted Wide Grip Pullup",
+        "exampleVideoUrl": "https://youtu.be/0tiC6RUZL8Y",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 175,
+        "name": "Dumbbell Pullover",
+        "exampleVideoUrl": "https://youtu.be/jQjWlIwG4sI",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 176,
+        "name": "Machine Pullover",
+        "exampleVideoUrl": "https://youtu.be/oxpAl14EYyc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 177,
+        "name": "Narrow Grip Pulldown",
+        "exampleVideoUrl": "https://youtu.be/QzjjwxZOVdE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 178,
+        "name": "Normal Grip Pulldown",
+        "exampleVideoUrl": "https://youtu.be/EUIri47Epcg",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 179,
+        "name": "Normal Grip Pullup",
+        "exampleVideoUrl": "https://youtu.be/iWpoegdfgtc",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 180,
+        "name": "Parallel Grip Pullup",
+        "exampleVideoUrl": "https://youtu.be/XWt6FQAK5wM",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 181,
+        "name": "Parallel Pulldown",
+        "exampleVideoUrl": "https://youtu.be/--utaPT7XYQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 182,
+        "name": "Straight Arm Pulldown",
+        "exampleVideoUrl": "https://youtu.be/G9uNaXGTJ4w",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 183,
+        "name": "Underhand Pulldown",
+        "exampleVideoUrl": "https://youtu.be/VprlTxpB1rk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 184,
+        "name": "Underhand Pullup",
+        "exampleVideoUrl": "https://youtu.be/9JC1EwqezGY",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 185,
+        "name": "Wide Grip Pulldown",
+        "exampleVideoUrl": "https://youtu.be/YCKPD4BSD2E",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 186,
+        "name": "Wide Grip Pullup",
+        "exampleVideoUrl": "https://youtu.be/GRgWPT9XSQQ",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Back"
+    },
+    {
+        "exerciseId": 187,
+        "name": "Barbell Overhead Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/q5X9thiKofE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 188,
+        "name": "Cable Overhead Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/1u18yJELsh0",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 189,
+        "name": "Cable Rope Overhead Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/kqidUIf1eJE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 190,
+        "name": "EZ Bar Overhead Tricep Extension",
+        "exampleVideoUrl": "https://youtu.be/IdZ7HXnatko",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 191,
+        "name": "Machine Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/Bx8ga1BLHLE",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 192,
+        "name": "Seated Barbell Overhead Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/ktU2H0DDmwk",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    },
+    {
+        "exerciseId": 193,
+        "name": "Seated EZ Bar Overhead Triceps Extension",
+        "exampleVideoUrl": "https://youtu.be/gcRZqG8t44c",
+        "createdByUserFlag": false,
+        "user": null,
+        "planWorkoutDetails": [],
+        "category": "Vertical Triceps"
+    }
+]
